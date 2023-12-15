@@ -1,4 +1,4 @@
-# Automated-user-migration-and-management-of-AWS-Identity-and-Access-Management-IAM-resources
+# Automated user migration and management of AWS Identity and Access Management IAM resources
 
 
 ![postpicture](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Pr78CMgUIOC2px6rFws54g.png)
